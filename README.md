@@ -1,30 +1,12 @@
-# About-me
-Personal info and links
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+# Привет, меня зовут Артем.
+<div id="header" align="right">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3duZGRwOThmcDI2emZxbDVnejNoOTRoajZkbGJrbzd3Y2pvMHBndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/11GS6sBCY87K9LmCQe/giphy.gif?cid=ecf05e479o8fn9zoxsod19lgs2g7nxh2rejxgk504x54qedu&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
 </div>
 </p>
 
-<div id="badges" align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=blue" alt="youtube Badge"/>
+## 👨‍💻 Обо мне:
+Я начинающий Data scientist. Заканчиваю Сибирский Федеральный университет на программе магистратуры по направлению Инженерия искусственного интеллекта.
 
-</div>
 
-### Hi there 👋
 
-<!--
-**InfinityBlazze/InfinityBlazze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
