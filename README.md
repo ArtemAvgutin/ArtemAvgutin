@@ -7,6 +7,20 @@
 
 ## 👨‍💻 Обо мне:
 Я начинающий Data scientist. Заканчиваю Сибирский Федеральный университет на программе магистратуры по направлению Инженерия искусственного интеллекта.
+Прохожу курсы VK Education, Stepik, также имею диплом об окончании 3-х годовых курсов программирования Новосибирской академии дизайна и программирования.
+Увлечен миром автомобилей с ДВС и очень люблю путешествовать.
+
+### 💻 Стек технологий:
 
 
 
+### Socials
+
+<p align="left">
+<a href="https://www.twitch.tv/https://www.twitch.tv/infinityblazze" target="_blank" rel="noreferrer">
+<picture>
+   <source media="(prefers-color-scheme: dark)" srcset="undefined" />
+   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" />
+   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" />
+ </picture>
+    </a></p>
