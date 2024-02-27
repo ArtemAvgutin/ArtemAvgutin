@@ -88,6 +88,15 @@
 * [Titanic_train_task](https://github.com/ArtemAvgutin/Titanic_train_task) - Тренировочная работа решения задачи "Титаник" и создание различных классификаторов для предсказания виживаемости на борту.
 * [MNIST_dataset_train](https://github.com/ArtemAvgutin/MNIST_dataset_train) - Разработка нейросетевого алгоритма для классификации рукописных цифр на датасете MNIST.
 * [Neural_network](https://github.com/ArtemAvgutin/Neural_network) - Создание собственной нейроннной сети на NumPy и настройка её весов.
-* 
+* [Fuzzy_logic](https://github.com/ArtemAvgutin/Fuzzy_logic) - Тренировочная работа по созданию алгоритма нечеткой логики и реализация метода ишибучи
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 
