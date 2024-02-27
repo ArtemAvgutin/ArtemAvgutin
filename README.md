@@ -90,7 +90,7 @@
 * [Neural_network](https://github.com/ArtemAvgutin/Neural_network) - Создание собственной нейроннной сети на NumPy и настройка её весов.
 * [Fuzzy_logic](https://github.com/ArtemAvgutin/Fuzzy_logic) - Тренировочная работа по созданию алгоритма нечеткой логики и реализация метода ишибучи
 * [Breast_Cancer_classification](https://github.com/ArtemAvgutin/Breast_Cancer_classification) - Задача классификации рака груди различными методами и оценка их результатов.
-* []()
+* [Hyperparameters_of_nn](https://github.com/ArtemAvgutin/Hyperparameters_of_nn) - Автоматический подбор лучших гиперпараметров для нейроннной сети
 * []()
 * []()
 * []()
