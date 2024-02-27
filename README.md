@@ -10,6 +10,8 @@
 Прохожу курсы VK Education, Stepik, также имею диплом об окончании 3-х годовых курсов программирования Новосибирской академии дизайна и программирования.
 Увлечен миром автомобилей с ДВС и очень люблю путешествовать. Знаю англиский на уровне C1 и японский язык на уровне N5-N4. Также имею научные публикации в журналах и являюсь победителем гранта по теме выпускной работы.
 
+* [Также хочу показать вам мой сайт-визитку](https://sites.google.com/view/avgitincv/%D0%BE%D0%B1%D0%BE-%D0%BC%D0%BD%D0%B5)
+
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -73,19 +75,19 @@
 <a href="https://t.me/Infinityblazze">
 <img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
 </a>
-  
+ 
 </div>  
 
 ## Краткое содержание и описание проектов в репозитории:
-* YoloV3CV - создание нейросети для определение объектов в реальном времени на фото и видео.
-* NLP_IMDB_classificator - создание нескольких нейросетей для бинарной классификации отзывов на фильмы на датасете imdb.
-* Time_series_forecasting_jena - прогназирование временных рядов для предсказания метеорологических показателей с применением нейросетей.
-* CIFAR10_vgg16 - применение cv и сети vgg16 для классификации изображений с применением технологий finetuning and transfer learning.
-* Genetic_algorithm - создание генетического алгоритма и решение задачи onemax.
-* Ishibuchi_Pitsburg_classifier - создание алгортма для многокритериальной оптимизации методом ишибучи и питтсбургского метода (эволюционный алгоритм).
-* Titanic_train_task - Тренировочная работа решения задачи "Титаник" и создание различных классификаторов для предсказания виживаемости на борту.
-* MNIST_dataset_train - Разработка нейросетевого алгоритма для классификации рукописных цифр на датасете MNIST.
+* [YoloV3CV](https://github.com/ArtemAvgutin/YoloV3CV) - создание нейросети для определение объектов в реальном времени на фото и видео.
+* [NLP_IMDB_classificator](https://github.com/ArtemAvgutin/NLP_IMDB_classificator) - создание нескольких нейросетей для бинарной классификации отзывов на фильмы на датасете imdb.
+* [Time_series_forecasting_jena](https://github.com/ArtemAvgutin/Time_series_forecasting_jena) - прогназирование временных рядов для предсказания метеорологических показателей с применением нейросетей.
+* [CIFAR10_vgg16](https://github.com/ArtemAvgutin/CIFAR10_vgg16) - применение cv и сети vgg16 для классификации изображений с применением технологий finetuning and transfer learning.
+* [Genetic_algorithm](https://github.com/ArtemAvgutin/Genetic_algorithm) - создание генетического алгоритма и решение задачи onemax.
+* [Ishibuchi_Pitsburg_classifier](https://github.com/ArtemAvgutin/Ishibuchi_Pitsburg_classifier) - создание алгортма для многокритериальной оптимизации методом ишибучи и питтсбургского метода (эволюционный алгоритм).
+* [Titanic_train_task](https://github.com/ArtemAvgutin/Titanic_train_task) - Тренировочная работа решения задачи "Титаник" и создание различных классификаторов для предсказания виживаемости на борту.
+* [MNIST_dataset_train](https://github.com/ArtemAvgutin/MNIST_dataset_train) - Разработка нейросетевого алгоритма для классификации рукописных цифр на датасете MNIST.
+* []()
 * 
-
 
 
