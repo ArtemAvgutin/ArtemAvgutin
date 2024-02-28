@@ -79,7 +79,7 @@
  
 </div>  
 
-## Краткое содержание и описание проектов в репозитории (Звездой отмечены самые интересные):
+## Краткое содержание и описание проектов в репозитории (звездой отмечены самые интересные):
 * [YoloV3CV](https://github.com/ArtemAvgutin/YoloV3CV) - создание нейросети для определение объектов в реальном времени на фото и видео.
 * [NLP_IMDB_classificator](https://github.com/ArtemAvgutin/NLP_IMDB_classificator) - создание нескольких нейросетей для бинарной классификации отзывов на фильмы на датасете imdb.
 * [Time_series_forecasting_jena](https://github.com/ArtemAvgutin/Time_series_forecasting_jena) - прогнозирование временных рядов для предсказания метеорологических показателей с применением нейросетей.
@@ -94,7 +94,7 @@
 * [Hyperparameters_of_nn](https://github.com/ArtemAvgutin/Hyperparameters_of_nn) - Автоматический подбор лучших гиперпараметров для нейроннной сети
 * [U-Net_segmentation](https://github.com/ArtemAvgutin/U-Net_segmentation) - Построение модели сегментации на основе сети U-Net и датасета домашних животных Oxford-IIIT
 * [Lstm_time_series](https://github.com/ArtemAvgutin/Lstm_time_series) - Прогнозирование временных рядов с помощью сети LSTM (построение долгосрочного прогноза)
-* []()
+* [NLP_Disaster_Tweets](https://github.com/ArtemAvgutin/NLP_Disaster_Tweets) - Бинарный классификатор для определения твитов о катастрофак с использованием различных методов.
 * []()
 * []()
 * []()
