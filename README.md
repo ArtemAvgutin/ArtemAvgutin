@@ -93,7 +93,7 @@
 * [Breast_Cancer_classification](https://github.com/ArtemAvgutin/Breast_Cancer_classification) - Задача классификации рака груди различными методами и оценка их результатов.
 * [Hyperparameters_of_nn](https://github.com/ArtemAvgutin/Hyperparameters_of_nn) - Автоматический подбор лучших гиперпараметров для нейроннной сети
 * [U-Net_segmentation](https://github.com/ArtemAvgutin/U-Net_segmentation) - Построение модели сегментации на основе сети U-Net и датасета домашних животных Oxford-IIIT
-* []()
+* [Lstm_time_series](https://github.com/ArtemAvgutin/Lstm_time_series) - Прогнозирование временных рядов с помощью сети LSTM (построение долгосрочного прогноза)
 * []()
 * []()
 * []()
