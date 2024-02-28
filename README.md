@@ -95,7 +95,7 @@
 * [U-Net_segmentation](https://github.com/ArtemAvgutin/U-Net_segmentation) - Построение модели сегментации на основе сети U-Net и датасета домашних животных Oxford-IIIT
 * [Lstm_time_series](https://github.com/ArtemAvgutin/Lstm_time_series) - Прогнозирование временных рядов с помощью сети LSTM (построение долгосрочного прогноза)
 * [NLP_Disaster_Tweets](https://github.com/ArtemAvgutin/NLP_Disaster_Tweets) - Бинарный классификатор для определения твитов о катастрофак с использованием различных методов.
-* []()
+* [YOLO_V4](https://github.com/ArtemAvgutin/YOLO_V4) - Используя компьютерное зрени и yolo v4 создание алгоритма для детектирования объектов на изображении.
 * []()
 * []()
 * []()
