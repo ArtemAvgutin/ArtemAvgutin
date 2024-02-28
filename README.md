@@ -79,7 +79,7 @@
  
 </div>  
 
-## Краткое содержание и описание проектов в репозитории:
+## Краткое содержание и описание проектов в репозитории (Звездой отмечены самые интересные):
 * [YoloV3CV](https://github.com/ArtemAvgutin/YoloV3CV) - создание нейросети для определение объектов в реальном времени на фото и видео.
 * [NLP_IMDB_classificator](https://github.com/ArtemAvgutin/NLP_IMDB_classificator) - создание нескольких нейросетей для бинарной классификации отзывов на фильмы на датасете imdb.
 * [Time_series_forecasting_jena](https://github.com/ArtemAvgutin/Time_series_forecasting_jena) - прогнозирование временных рядов для предсказания метеорологических показателей с применением нейросетей.
