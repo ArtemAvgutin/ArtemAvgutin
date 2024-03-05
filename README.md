@@ -98,6 +98,8 @@
 * [YOLO_V4](https://github.com/ArtemAvgutin/YOLO_V4) - Используя компьютерное зрение и yolo v4, создание алгоритма для детектирования объектов на изображении.
 * [Fractal](https://github.com/ArtemAvgutin/Fractal) - Изпользование черепашки для отрисовки фрактала.
 * [Green_leafs_tree](https://github.com/ArtemAvgutin/Green_leafs_tree) - Использование черепашки для отрисовки рандомного дерева с зелеными листьями
+* [NLP_TFIDF](https://github.com/ArtemAvgutin/NLP_TFIDF) - Тренировочная работа с применением TFIDF и LogReg
 * []()
-
-
+* []()
+* []()
+* 
