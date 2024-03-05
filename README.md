@@ -100,6 +100,6 @@
 * [Green_leafs_tree](https://github.com/ArtemAvgutin/Green_leafs_tree) - Использование черепашки для отрисовки рандомного дерева с зелеными листьями
 * [NLP_TFIDF](https://github.com/ArtemAvgutin/NLP_TFIDF) - Тренировочная работа с применением TFIDF и LogReg
 * [NLP_yelp](https://github.com/ArtemAvgutin/NLP_yelp) - Определение тональности текстов отзывов на сайте YELP
+* [CV.pillow](https://github.com/ArtemAvgutin/CV.pillow) - Работа с библиотекой pillow и отработка навыков работы с изображениями
+* [Classic_CV](https://github.com/ArtemAvgutin/Classic_CV]) - Работа 
 * []()
-* []()
-* 
