@@ -102,5 +102,5 @@
 * [NLP_yelp](https://github.com/ArtemAvgutin/NLP_yelp) - Определение тональности текстов отзывов на сайте YELP
 * [CV_pillow](https://github.com/ArtemAvgutin/CV_pillow) - Работа с библиотекой pillow и отработка навыков работы с изображениями
 * [Classic_CV](https://github.com/ArtemAvgutin/Classic_CV) - Примеры использования классических методов обработки изображений в компьютерном зрении
-* [YellowTaxi](https://github.com/ArtemAvgutin/YellowTaxi) - Прогнозирование поездок желтого такси Нью-Йорка
+* [YellowTaxi](https://github.com/ArtemAvgutin/YellowTaxi) - Прогнозирование поездок желтого такси Нью-Йорка ( в процессе оформления)
 * []()
