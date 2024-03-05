@@ -99,7 +99,7 @@
 * [Fractal](https://github.com/ArtemAvgutin/Fractal) - Изпользование черепашки для отрисовки фрактала.
 * [Green_leafs_tree](https://github.com/ArtemAvgutin/Green_leafs_tree) - Использование черепашки для отрисовки рандомного дерева с зелеными листьями
 * [NLP_TFIDF](https://github.com/ArtemAvgutin/NLP_TFIDF) - Тренировочная работа с применением TFIDF и LogReg
-* []()
+* [NLP_yelp](https://github.com/ArtemAvgutin/NLP_yelp) - Определение тональности текстов отзывов на сайте YELP
 * []()
 * []()
 * 
