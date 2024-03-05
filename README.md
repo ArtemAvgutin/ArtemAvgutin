@@ -86,7 +86,7 @@
 * [CIFAR10_vgg16](https://github.com/ArtemAvgutin/CIFAR10_vgg16) - Применение cv и сети vgg16 для классификации изображений с применением технологий finetuning and transfer learning.
 * [Genetic_algorithm](https://github.com/ArtemAvgutin/Genetic_algorithm) - Создание генетического алгоритма и решение задачи onemax.
 * [Ishibuchi_Pitsburg_classifier](https://github.com/ArtemAvgutin/Ishibuchi_Pitsburg_classifier) - Создание алгортма для многокритериальной оптимизации методом ишибучи и питтсбургского метода (эволюционный алгоритм).
-* [Titanic_train_task](https://github.com/ArtemAvgutin/Titanic_train_task) - Тренировочная работа решения задачи "Титаник" и создание различных классификаторов для предсказания виживаемости на борту.
+* [Titanic_train_task](https://github.com/ArtemAvgutin/Titanic_train_task) - Тренировочная работа решения задачи "Титаник" и создание различных классификаторов для предсказания выживаемости на борту.
 * [MNIST_dataset_train](https://github.com/ArtemAvgutin/MNIST_dataset_train) - Разработка нейросетевого алгоритма для классификации рукописных цифр на датасете MNIST.
 * [Neural_network](https://github.com/ArtemAvgutin/Neural_network) - Создание собственной нейроннной сети на NumPy и настройка её весов.
 * [Fuzzy_logic](https://github.com/ArtemAvgutin/Fuzzy_logic) - Тренировочная работа по созданию алгоритма нечеткой логики и реализация метода ишибучи
