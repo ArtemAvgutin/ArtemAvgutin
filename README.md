@@ -56,8 +56,8 @@
 
 ## Связь со мной
 <div align="center">
-<a href="https://github.com/ArtemAvgutin" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://t.me/Infinityblazze">
+<img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
 </a>
 
   
@@ -73,9 +73,7 @@
 <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
 </a>
 
-<a href="https://t.me/Infinityblazze">
-<img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram Badge"/>
-</a>
+
  
 </div>  
 
