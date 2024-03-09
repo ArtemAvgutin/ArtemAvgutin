@@ -80,8 +80,6 @@
 <img src="https://img.shields.io/badge/VK-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Vk Badge"/>
 </a>
 
-
- 
 </div>  
 
 # Краткое содержание и описание проектов в репозитории
@@ -95,7 +93,7 @@
 * [Breast_Cancer_classification](https://github.com/ArtemAvgutin/Breast_Cancer_classification) - Задача классификации рака груди различными методами и оценка их результатов.
 * [U-Net_segmentation](https://github.com/ArtemAvgutin/U-Net_segmentation) - Построение модели сегментации на основе сети U-Net и датасета домашних животных Oxford-IIIT
 * [YOLO_V4](https://github.com/ArtemAvgutin/YOLO_V4) - Используя компьютерное зрение и yolo v4, создание алгоритма для детектирования объектов на изображении.
-* [NLP_TFIDF](https://github.com/ArtemAvgutin/NLP_TFIDF) - Тренировочная работа с применением TFIDF и LogReg
+* [NLP_TFIDF](https://github.com/ArtemAvgutin/NLP_TFIDF) - Классификация длинных текстов с применением TFIDF и LogReg
 * [NLP_yelp](https://github.com/ArtemAvgutin/NLP_yelp) - Определение тональности текстов отзывов на сайте YELP
 * [CV_pillow](https://github.com/ArtemAvgutin/CV_pillow) - Работа с библиотекой pillow и отработка навыков работы с изображениями
 * [Classic_CV](https://github.com/ArtemAvgutin/Classic_CV) - Примеры использования классических методов обработки изображений в компьютерном зрении
@@ -108,10 +106,11 @@
 * [Green_leafs_tree](https://github.com/ArtemAvgutin/Green_leafs_tree) - Использование черепашки для отрисовки рандомного дерева с зелеными листьями
 * [Genetic_algorithm](https://github.com/ArtemAvgutin/Genetic_algorithm) - Создание генетического алгоритма и решение задачи onemax.
 * [Neural_network](https://github.com/ArtemAvgutin/Neural_network) - Создание собственной нейроннной сети на NumPy и настройка её весов.
-* [Titanic_train_task](https://github.com/ArtemAvgutin/Titanic_train_task) - Тренировочная работа решения задачи "Титаник" и создание различных классификаторов для предсказания выживаемости на борту.
-* [Fuzzy_logic](https://github.com/ArtemAvgutin/Fuzzy_logic) - Тренировочная работа по созданию алгоритма нечеткой логики и реализация метода ишибучи
+* [Titanic_train_task](https://github.com/ArtemAvgutin/Titanic_train_task) - Решения задачи "Титаник" и создание различных классификаторов для предсказания выживаемости на борту.
+* [Fuzzy_logic](https://github.com/ArtemAvgutin/Fuzzy_logic) - Работа по созданию алгоритма нечеткой логики и реализация метода ишибучи
 * [NLP_Disaster_Tweets](https://github.com/ArtemAvgutin/NLP_Disaster_Tweets) - Бинарный классификатор для определения твитов о катастрофак с использованием различных методов.
 * [Lstm_time_series](https://github.com/ArtemAvgutin/Lstm_time_series) - Прогнозирование временных рядов с помощью сети LSTM (построение долгосрочного прогноза)
+* []()
 
 
 
