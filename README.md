@@ -82,22 +82,22 @@
 
 </div>  
 
-# Краткое содержание и описание проектов в репозитории
+# Краткое содержание и описание проектов в репозитории / Brief content and description of projects in the repository
 ## Крупные проекты / Massive projects:
-* [YoloV3CV](https://github.com/ArtemAvgutin/YoloV3CV) - Создание нейросети для определение объектов в реальном времени на фото и видео.
-* [NLP_IMDB_classificator](https://github.com/ArtemAvgutin/NLP_IMDB_classificator) - Создание нескольких нейросетей для бинарной классификации отзывов на фильмы на датасете imdb.
+* [YoloV3CV](https://github.com/ArtemAvgutin/YoloV3CV) - Создание алгоритма для детектирования объектов в реальном времени на фото и видео.
+* [NLP_IMDB_classificator](https://github.com/ArtemAvgutin/NLP_IMDB_classificator) - Создание нейросетей для бинарной классификации отзывов на фильмы.
 * [Time_series_forecasting_jena](https://github.com/ArtemAvgutin/Time_series_forecasting_jena) - Прогнозирование временных рядов для предсказания метеорологических показателей с применением нейросетей.
-* [CIFAR10_vgg16](https://github.com/ArtemAvgutin/CIFAR10_vgg16) - Применение cv и сети vgg16 для классификации изображений с применением технологий finetuning and transfer learning.
+* [CIFAR10_vgg16](https://github.com/ArtemAvgutin/CIFAR10_vgg16) - Применение computer vision и нейросети для классификации изображений.
 * [Ishibuchi_Pitsburg_classifier](https://github.com/ArtemAvgutin/Ishibuchi_Pitsburg_classifier) - Создание алгортма для многокритериальной оптимизации методом ишибучи и питтсбургского метода (эволюционный алгоритм).
-* [MNIST_dataset_train](https://github.com/ArtemAvgutin/MNIST_dataset_train) - Разработка нейросетевого алгоритма для классификации рукописных цифр на датасете MNIST.
+* [MNIST_dataset_train](https://github.com/ArtemAvgutin/MNIST_dataset_train) - Разработка нейросетевого алгоритма для классификации и распознавания рукописных цифр.
 * [Breast_Cancer_classification](https://github.com/ArtemAvgutin/Breast_Cancer_classification) - Задача классификации рака груди различными методами и оценка их результатов.
-* [U-Net_segmentation](https://github.com/ArtemAvgutin/U-Net_segmentation) - Построение модели сегментации на основе сети U-Net и датасета домашних животных Oxford-IIIT
-* [YOLO_V4](https://github.com/ArtemAvgutin/YOLO_V4) - Используя компьютерное зрение и yolo v4, создание алгоритма для детектирования объектов на изображении.
-* [NLP_TFIDF](https://github.com/ArtemAvgutin/NLP_TFIDF) - Классификация длинных текстов с применением TFIDF и LogReg
-* [NLP_yelp](https://github.com/ArtemAvgutin/NLP_yelp) - Определение тональности текстов отзывов на сайте YELP
-* [CV_pillow](https://github.com/ArtemAvgutin/CV_pillow) - Работа с библиотекой pillow и отработка навыков работы с изображениями
-* [Classic_CV](https://github.com/ArtemAvgutin/Classic_CV) - Примеры использования классических методов обработки изображений в компьютерном зрении
-* [YellowTaxi](https://github.com/ArtemAvgutin/YellowTaxi) - Прогнозирование поездок желтого такси Нью-Йорка (в процессе оформления)
+* [U-Net_segmentation](https://github.com/ArtemAvgutin/U-Net_segmentation) - Построение модели сегментации изображений домашних животных на основе нейросети.
+* [YOLO_V4](https://github.com/ArtemAvgutin/YOLO_V4) - Создание алгоритма для детектирования объектов на изображении, используя компьютерное зрение и yolo v4.
+* [NLP_TFIDF](https://github.com/ArtemAvgutin/NLP_TFIDF) - Классификация длинных текстов с применением статистической меры и логистической регрессии.
+* [NLP_yelp](https://github.com/ArtemAvgutin/NLP_yelp) - Определение тональности текстов отзывов с помощью нейросети.
+* [CV_pillow](https://github.com/ArtemAvgutin/CV_pillow) - Работа с компьютерным зрением, библиотекой pillow и отработка навыков работы с изображениями.
+* [Classic_CV](https://github.com/ArtemAvgutin/Classic_CV) - Использование классических методов обработки изображений в компьютерном зрении.
+* [YellowTaxi](https://github.com/ArtemAvgutin/YellowTaxi) - Прогнозирование поездок желтого такси Нью-Йорка, обработка данных и построение дешбордов. (в процессе оформления)
 * []()
 
 ## Небольшие пет проекты / Petite pet projects:
@@ -107,9 +107,9 @@
 * [Genetic_algorithm](https://github.com/ArtemAvgutin/Genetic_algorithm) - Создание генетического алгоритма и решение задачи onemax.
 * [Neural_network](https://github.com/ArtemAvgutin/Neural_network) - Создание собственной нейроннной сети на NumPy и настройка её весов.
 * [Titanic_train_task](https://github.com/ArtemAvgutin/Titanic_train_task) - Решения задачи "Титаник" и создание различных классификаторов для предсказания выживаемости на борту.
-* [Fuzzy_logic](https://github.com/ArtemAvgutin/Fuzzy_logic) - Работа по созданию алгоритма нечеткой логики и реализация метода ишибучи
+* [Fuzzy_logic](https://github.com/ArtemAvgutin/Fuzzy_logic) - Работа по созданию алгоритма нечеткой логики и реализация метода ишибучи.
 * [NLP_Disaster_Tweets](https://github.com/ArtemAvgutin/NLP_Disaster_Tweets) - Бинарный классификатор для определения твитов о катастрофак с использованием различных методов.
-* [Lstm_time_series](https://github.com/ArtemAvgutin/Lstm_time_series) - Прогнозирование временных рядов с помощью сети LSTM (построение долгосрочного прогноза)
+* [Lstm_time_series](https://github.com/ArtemAvgutin/Lstm_time_series) - Прогнозирование временных рядов с помощью нейросети (построение долгосрочного прогноза).
 * []()
 
 
