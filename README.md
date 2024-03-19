@@ -87,7 +87,7 @@
 * [YoloV3CV](https://github.com/ArtemAvgutin/YoloV3CV) - Создание алгоритма для детектирования объектов в реальном времени на фото и видео.
 * [NLP_IMDB_classificator](https://github.com/ArtemAvgutin/NLP_IMDB_classificator) - Создание нейросетей для бинарной классификации отзывов на фильмы.
 * [Time_series_forecasting_jena](https://github.com/ArtemAvgutin/Time_series_forecasting_jena) - Прогнозирование временных рядов для предсказания метеорологических показателей с применением нейросетей.
-* [CIFAR10_vgg16](https://github.com/ArtemAvgutin/CIFAR10_vgg16) - Применение computer vision и нейросети для классификации изображений.
+* [CIFAR10_vgg16](https://github.com/ArtemAvgutin/CIFAR10_vgg16) - Создании модели для классификации изображений с использованием сети VGG16.
 * [Ishibuchi_Pitsburg_classifier](https://github.com/ArtemAvgutin/Ishibuchi_Pitsburg_classifier) - Создание алгортма для многокритериальной оптимизации методом ишибучи и питтсбургского метода (эволюционный алгоритм).
 * [MNIST_dataset_train](https://github.com/ArtemAvgutin/MNIST_dataset_train) - Разработка нейросетевого алгоритма для классификации и распознавания рукописных цифр.
 * [Breast_Cancer_classification](https://github.com/ArtemAvgutin/Breast_Cancer_classification) - Задача классификации рака груди различными методами и оценка их результатов.
