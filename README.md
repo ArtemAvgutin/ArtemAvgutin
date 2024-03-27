@@ -83,7 +83,7 @@
 </div>  
 
 # Краткое содержание и описание проектов в репозитории / Brief content and description of projects in the repository
-## Крупные проекты / Massive projects:
+## Крупные пет проекты / Massive pet projects:
 * [YoloV3CV](https://github.com/ArtemAvgutin/YoloV3CV) - Создание алгоритма для детектирования объектов в реальном времени на фото и видео.
 * [NLP_IMDB_classificator](https://github.com/ArtemAvgutin/NLP_IMDB_classificator) - Создание нейросетей для бинарной классификации отзывов на фильмы.
 * [Time_series_forecasting_jena](https://github.com/ArtemAvgutin/Time_series_forecasting_jena) - Прогнозирование временных рядов для предсказания метеорологических показателей с применением нейросетей.
