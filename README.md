@@ -1,5 +1,5 @@
 # Привет, меня зовут Артем.
-<div id="header" align="right">
+<div id="header" align="middle">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3duZGRwOThmcDI2emZxbDVnejNoOTRoajZkbGJrbzd3Y2pvMHBndyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </div>
 </p>
